@@ -1,3 +1,7 @@
 AvalaraTaxRestApiHelper/AvalaraTaxRestApiHelper/bin/*
 AvalaraTaxRestApiHelper/packages/*
 AvalaraTaxRestApiHelper/AvalaraTaxRestApiHelper/obj/Debug/*
+packages/Newtonsoft.Json.9.0.1/lib/*
+AvalaraTaxRestApiHelper/bin/Debug/*
+AvalaraTaxRestApiHelper/obj/Debug/*
+packages/*
