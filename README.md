@@ -10,7 +10,5 @@ This project is using my another project [RestAPI-Caller](https://github.com/par
  
  3.If it has falied then error code and failure reason will be filled in [AvalaraErrorResponseData](AvalaraTaxRestApiHelper/Entities/AvalaraResponseData.cs).
  
- 
- # How To Use:
- 
+#How TO Use:
  1.You can directly download this library and keep it in you project or you can use it's [Nuget Package](https://www.nuget.org/packages/AvalaraTaxHelper/).
